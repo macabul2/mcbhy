@@ -1,0 +1,44 @@
+source,target,value
+Oil,Export,496.8112702
+Import,Bioliquids,96.99915868
+Import,Biomass,53.84455108
+Import,Coal,511.3477453
+Import,Electricity,170
+Import,Natural Gas,4466.754843
+Import,Oil,8207.713625
+Indigenous,Biogas,57.24834529
+Indigenous,Biomass,390.661129
+Indigenous,Coal,112.1335529
+Indigenous,Natural Gas,461
+Indigenous,Renewable,643.5372749
+Biogas,Gas,57.24834529
+Natural Gas,Gas,4927.754843
+Biogas,Electricity,27.24514602
+Coal,Electricity,251.4167144
+Gas,Electricity,2024.685485
+Renewable,Electricity,633.3904258
+Oil,Electricity,147.1353002
+Electricity,Agriculture,48.87165137
+Oil,Agriculture,247.5480313
+Biomass,Commercial,79.19406615
+Coal,Commercial,5.720512516
+Electricity,Commercial,666
+Gas,Commercial,557.724542
+Oil,Commercial,157.0760404
+Renewable,Commercial,0.226280057
+Biomass,Industry,217.932174
+Coal,Industry,92.3690421
+Electricity,Industry,477.8938404
+Gas,Industry,1353.332711
+Oil,Industry,22.19660291
+Biomass,Residential,118.639976
+Coal,Residential,272.9750292
+Electricity,Residential,700.2837203
+Gas,Residential,1049.26045
+Oil,Residential,544.9367188
+Renewable,Residential,9.920569048
+Bioliquids,Transport,97.89005388
+Electricity,Transport,13.95779257
+Oil,Transport,5744.389142
+Biomass,Biorefinery,1.49
+Biorefinery,Bioliquids,2
