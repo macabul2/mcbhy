@@ -1,11 +1,5 @@
 source,target,value
 Oil,Export,496.8112702
-Import,Bioliquids,96.99915868
-Import,Biomass,53.84455108
-Import,Coal,511.3477453
-Import,Electricity,170
-Import,Natural Gas,4466.754843
-Import,Oil,8207.713625
 Indigenous,Biogas,57.24834529
 Indigenous,Biomass,390.661129
 Indigenous,Coal,112.1335529
