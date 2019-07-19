@@ -1,0 +1,18 @@
+﻿source,target,value
+Imports,Primary supply,9096
+Stock change,Primary supply,48
+Primary Supply,Exports,1717
+Primary Supply,Marine Bunkers,162
+Primary Supply,Transformation input,3139
+Transformation input,Transformation output,3167
+Primary supply,Available Supply,7265
+Transformation output,Available Supply,3167
+Exchange and transfers,Available Supply,-22
+Available Supply,Transformation input,3139
+Available Supply,Distribution losses,93
+Industry,Total supply,523
+Transport,Total supply,4926
+Residential,Total supply,1059
+Commercial/public services,Total supply,268
+Agricultural,Total supply,176
+Fisheries,Total supply,27
