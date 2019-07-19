@@ -1,15 +1,15 @@
 source,target,value
 Imports,Primary supply,105.7865
 Stock change,Primary supply,0.55824
-Primary Supply,Exports,19.96871
-Primary Supply,Marine Bunkers,1.88406
+Primary supply,Exports,19.96871
+Primary supply,Marine Bunkers,1.88406
 Primary supply,Available Supply,84.49195
-Primary Supply,Transformation input,36.50657
+Primary supply,Transformation input,36.50657
 Transformation input,Transformation output,36.83221
 Transformation output,Available Supply,36.83221
 Exchange and transfers,Available Supply,-0.25586
 Available Supply,Distribution losses,1.08159
-Available Supply, Total Supply,81.16577
+Available Supply, Total supply,81.16577
 Total supply,Industry,6.08249
 Total supply,Transport,57.28938
 Total supply,Residential,12.31617
